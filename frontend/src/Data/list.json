@@ -1,0 +1,161 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":0,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":10,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/teenagers-reading-textbooks-stairway_23-2147864042.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":20,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/handsome-guy-study-library_1157-22187.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":30,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/young-man-wearing-blue-outfit-holding-shopping-bags_1298-167.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":40,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":50,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":60,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    }, {
+        "id":8,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":70,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":9,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":80,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":10,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":90,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":11,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":100,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":12,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":110,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":13,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":120,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":14,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":130,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":15,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":140,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":16,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":150,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":17,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":160,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":18,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":170,
+        "Category":"Paid",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":19,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":180,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    },
+    {
+        "id":20,
+        "name":"Story book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price":190,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/serious-young-woman-talking-phone-near-bookshelves_23-2148204241.jpg?ga=GA1.1.272556663.1725601748&semt=ais_hybrid"
+    }
+]
