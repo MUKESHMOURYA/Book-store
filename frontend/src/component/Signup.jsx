@@ -20,7 +20,7 @@ const Signup = () => {
 
         <div
           id="hidediv"
-          className=" modal-box border-[2px] shadow-md p-5 relative  rounded-md bg-slate-500 "
+          className=" modal-box border-[2px] shadow-md p-5 relative  rounded-md  "
         >
           <form method="dialog" onSubmit={handleSubmit(onSubmit)}>
             <Link
@@ -74,7 +74,7 @@ const Signup = () => {
               </button>
               <p>
                 Not registered!
-                <button
+                <Link to={"/"}
                   className=" underline text-blue-500 cursor-pointer"
                   onClick={() =>
                     document.getElementById("my_modal_3").showModal()
@@ -82,7 +82,7 @@ const Signup = () => {
                 >
                   {" "}
                   Login
-                </button>{" "}
+                </Link>{" "}
                 <Login />{" "}
               </p>
             </div>

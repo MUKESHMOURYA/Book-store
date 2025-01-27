@@ -1,35 +1,32 @@
-import React from 'react'
-import Navbar from './component/Header/Navbar'
-import Home from './component/Home/Home'
-import {Routes , Route, BrowserRouter} from "react-router-dom"
-import Course from './component/Course/Course'
-import Signup from './component/Signup'
+import React from "react";
+// import Navbar from "./component/Header/Navbar";
+import Home from "./component/Home/Home";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
+import Course from "./component/Course/Course";
+import Signup from "./component/Signup";
+import Contact from "./component/Contact/Contact";
+import Teat from "./component/Teat"
+import About from "./component/about/About";
 
 
 
 const App = () => {
-  // const path=useLocation()
-  // const mukesh=path.pathname.split("/")[1]
 
   return (
 
     <>
-    <BrowserRouter>
-   {/* {!mukesh && } */}
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home/>} />
+          <Route path="/course" element={<Course/>} />
+          <Route path="/contact" element={<Contact/>} />
+          <Route path="/about" element={<About/>} />
+          <Route path="/signup" element={<Signup/>} />
+          <Route path="/teat" element={<Teat/>} />
+        </Routes>
+      </BrowserRouter>
+    </>
+  );
+};
 
-   <Routes>
-     <Route path="/" element={ <Home/>}/>
-     <Route path="/course" element={ <Course />}/>
-     <Route path="/signup" element={ <Signup/>}/>
-   </Routes>
-   {/* {!mukesh &&} */}
-  
-  
-   </BrowserRouter>
-   
-
-   </>
-  )
-}
-
-export default App
+export default App;

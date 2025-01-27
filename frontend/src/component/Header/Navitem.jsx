@@ -7,13 +7,13 @@ const Navitem = () => {
               <a href='/'>Home</a>
               </li>
               <li className=' h-8   flex justify-center items-center hover:border-2 rounded-lg'>
-                <a href='course'>Course</a>
+                <a href='/course'>Course</a>
               </li>
               <li className=' h-8   flex justify-center items-center hover:border-2 rounded-lg'>
-                <a>Contact</a>
+                <a href='/contact'>Contact</a>
               </li>
               <li className=' h-8   flex justify-center items-center hover:border-2 rounded-lg'>
-                <a>About</a>
+                <a href='/about'>About</a>
               </li>
            
           
